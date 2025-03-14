@@ -1,0 +1,70 @@
+{
+    "subplugins": [
+        {
+            "name": "chapter",
+            "title": "Chapter",
+            "component": "ivplugin_chapter",
+            "description": "Separate the video into chapters.",
+            "icon": "bi bi-bookmark-plus-fill",
+            "version": "2025021100",
+            "type": "free"
+        },
+        {
+            "name": "skipsegment",
+            "title": "Skipped Segment",
+            "component": "ivplugin_skipsegment",
+            "description": "Allows skipping specific segments in the video.",
+            "icon": "bi bi-fast-forward-fill",
+            "version": "2025021100",
+            "type": "free"
+        },
+        {
+            "name": "iframe",
+            "title": "Iframe",
+            "component": "ivplugin_iframe",
+            "description": "Embed iframe content into the video.",
+            "icon": "bi bi-window-stack",
+            "version": "2025021100",
+            "type": "free"
+        },
+        {
+            "name": "contentbank",
+            "title": "Content Bank",
+            "component": "ivplugin_contentbank",
+            "description": "Integrate content from the course content bank.",
+            "icon": "bi bi-archive",
+            "version": "2025021100",
+            "type": "free"
+        },
+        {
+            "name": "richtext",
+            "title": "Rich Text",
+            "component": "ivplugin_richtext",
+            "description": "Add rich text annotations to the video.",
+            "icon": "bi bi-file-earmark-richtext",
+            "version": "2025021100",
+            "type": "free"
+        },
+        {
+            "name": "analytics",
+            "title": "Analytics",
+            "component": "local_ivanalytics",
+            "description": "Track user interactions with the video.",
+            "icon": "bi bi-graph-up",
+            "version": "2025021100",
+            "type": "paid",
+            "description_url": "https://buymeacoffee.com/tsmakara/ivanalytics"
+        },
+        {
+            "name": "xpreward",
+            "title": "XP Reward",
+            "component": "local_ivxpreward",
+            "description": "Reward viewers with experience points.",
+            "icon": "bi bi-fast-forward-fill",
+            "version": "2025021100",
+            "type": "free",
+            "description_url": "https://buymeacoffee.com/tsmakara/ivxpreward",
+            "download_url": "https://buymeacoffee.com/tsmakara/e/371736"
+        }
+    ]
+}
